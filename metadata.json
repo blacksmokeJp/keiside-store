@@ -1,0 +1,8 @@
+{
+  "name": "Remix KEISIDE Store - E-commerce \u0026 Gestão",
+  "description": "Plataforma completa de e-commerce e gestão administrativa para a KEISIDE Store, focada em camisetas estampadas, controle de estoque, pedidos, upsell e faturamento.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
